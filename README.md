@@ -1,4 +1,5 @@
-![jui1](https://github.com/user-attachments/assets/5fc65149-2ede-4ca3-8c2e-d4b59edb0c22)
+
+![Jui5](https://github.com/user-attachments/assets/6723c494-3d1b-4b62-981b-f1b9f232e8df)
 This shows a table showing a list of domains and its corresponding properties.
 
 
